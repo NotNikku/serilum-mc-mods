@@ -8,20 +8,20 @@ assignees: ricksouth
 ---
 
 ## **Information**
-Minecraft version: xx.xx.xx
-Modloader: Forge / Fabric
-Forge version: xx.xx.xx  OR  Fabric loader version: x.xx.x
-Environment: Singleplayer / Multiplayer
+Minecraft version: 1.18.2
+Modloader: Forge
+Forge version: 40.2.9
+Environment: Singleplayer
 
-Mod name: Mod
-Mod version: x.x
+Mod name: World Border
+Mod version: 2.6
 
 
 ## **Description**
-Hey! This happened.
+Loading the mod in a big modpack (VaultHunters) which worked perfectly fine without the mod but when I added World Border to it it doesnt wanna work anymore and says worldborder failed to load correctly with code: java.lang.reflect.InvocationTargetException:null
 
 
 ## **Crash report**
-_(Please either drag the file directly here, or use https://gist.github.com/ to prevent the paste from expiring)_
+https://gist.github.com/NotNikku/f974da2314a06a3cb075a3ff8e772118
 
 If available.
